@@ -5,10 +5,10 @@ Develop a C program for a microcontroller that simulates an advanced LED control
 <h2>To compile this program in a standard C environment:</h2>
 <ol>
     <li>Save the code in a file named led_control.c.</li>
-    <li>Compile the code using a GCC compiler:<br>
-    <strong>2gcc -o led_control led_control.c<strong></li>
-    <li>Run the compiled program:<br>
-    <strong>./led_control<strong></li>
+    <li>Compile the code using a GCC compiler:</li>
+    <h3>gcc -o led_control led_control.c</h3>
+    <li>Run the compiled program:</li>
+    <h3>./led_control</h3>
 <ol>
 <p>This program will output the initial and updated status of the LED group as per the changes made by the <strong>updateLEDGroupSettings</strong> function.</p>
 

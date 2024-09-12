@@ -10,6 +10,7 @@ Develop a C program for a microcontroller that simulates an advanced LED control
     <li>Run the compiled program:</li>
     <h3>./led_control</h3>
 <ol>
+<br>
 <p>This program will output the initial and updated status of the LED group as per the changes made by the <strong>updateLEDGroupSettings</strong> function.</p>
 
 <h4>For microcontroller environments (e.g., with an embedded IDE like <strong>STM32CubeIDE or Keil):<strong></h4>
